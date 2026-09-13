@@ -1,16 +1,21 @@
-## Hi there 👋
+# hey
 
-<!--
-**luckyember98866/luckyember98866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a developer figuring things out.
 
-Here are some ideas to get you started:
+### about me
+- currently learning and building small stuff
+- mostly poking around with code in my free time
+- still early days, so the repo list is pretty quiet for now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### tech i use / play with
+- Python
+- JavaScript / TypeScript
+- Git & Linux
+- HTML / CSS when needed
+
+### projects
+Nothing worth showing yet. Will drop some experiments here when they feel ready.
+
+---
+
+thanks for stopping by.
